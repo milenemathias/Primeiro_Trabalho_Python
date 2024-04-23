@@ -1,4 +1,4 @@
-# Aula 1 - Atividade 1")
+# Aula 1 - Atividade 1
 
 '''1 - Conversão de graus Celsius para Fahrenheit - Crie um programa que converta graus Celsius em Fahrenheit. A fórmula é a seguinte: F = 9 / 5 C +32. O programa deve solicitar ao usuário que insira uma temperatura em graus Celsius e, em seguida, exiba a temperatura convertida em Fahrenheit. Após construir esse programa, modifique-o para que converta graus Fahrenheit em graus Celsius.'''
 
@@ -26,8 +26,8 @@ else:
 '''3 - Escreva um programa que receba dois números, exiba as opções:
 1 - adição
 2 - subtração
-Então peça ao usuário para escolher uma das opções. Caso escolha a opção 1 o programa deve realizar a soma dos dois números lidos e exibir. Caso escolha a opção 2 o programa deve realizar a subtração dos dois números lidos e exibir.
-'''
+Então peça ao usuário para escolher uma das opções. Caso escolha a opção 1 o programa deve realizar a soma dos dois números lidos e exibir. Caso escolha a opção 2 o programa deve realizar a subtração dos dois números lidos e exibir.'''
+
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
 
@@ -50,8 +50,7 @@ else:
 '''4 - Numa determinada escola, os critérios de aprovação são os seguintes:
 - O aluno deve ter, no máximo, 25% de faltas;
 - A nota final deve ser igual ou superior a 7,00.
-Construa um programa para ler as notas que um aluno tirou nos 4 bimestres, o número total de aulas e o número de faltas, mostrando ao final a situação do aluno como sendo “Aprovado”, “Reprovado por Faltas” e “Reprovado por média”, considerando que a reprovação por faltas se sobrepõe a reprovação por nota
-'''
+Construa um programa para ler as notas que um aluno tirou nos 4 bimestres, o número total de aulas e o número de faltas, mostrando ao final a situação do aluno como sendo “Aprovado”, “Reprovado por Faltas” e “Reprovado por média”, considerando que a reprovação por faltas se sobrepõe a reprovação por nota.'''
 
 nota_bimestre1 = float(input("Digite a nota do primeiro bimestre: "))
 nota_bimestre2 = float(input("Digite a nota do segundo bimestre: "))
