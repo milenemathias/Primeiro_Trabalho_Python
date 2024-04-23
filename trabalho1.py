@@ -7,3 +7,4 @@ fahrenheit = (celsius * 9/5) + 32
 # Exibição do resultado
 print("A temperatura em Fahrenheit é:", fahrenheit)
 
+#teste
